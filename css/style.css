@@ -1,8 +1,10 @@
-.cabecalho h1 {
-    font-size: 24px;
-    color: #333;
-    background-color: rgb(255, 0, 191) !important;
+/*Esta é uma regra CSS3*/
+h1{
+    color: red;
 }
+
+
+
          /* CSS 
          * {
             margin: 0;
@@ -30,6 +32,11 @@
             align-items: center;
             margin-bottom: 20px;
          }
+         .cabecalho h1 {
+    font-size: 24px;
+    color: #333;
+    background-color: rgb(255, 0, 191) !important;
+}
          nav ul {
             display: flex;
             list-style: none;
