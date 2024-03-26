@@ -26,6 +26,10 @@ form{
    border: 1px solid grey;
    padding: 10px;
 }
+p {
+   color: green;
+}
+
 
          /* CSS 
          * {
