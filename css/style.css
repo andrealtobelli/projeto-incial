@@ -16,7 +16,9 @@ h1, h2 {
 nav a {
    font-weight: bold;
 }
-
+.container{
+   padding: 20px;
+}
 
          /* CSS 
          * {
